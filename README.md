@@ -2,7 +2,7 @@
 
 ### Impetus
 
-I was frustrated with the usual build apps - Gradle, Fastlane, etc. They didn't always work right. But mostly they tried to do to much. I don't need my build script to maintain my App IDs or my provision files. I know what I'm doing, thank you very much.
+I was frustrated with the usual build apps - Gradle, Fastlane, etc. They didn't always work right. But mostly they tried to do too much. I don't need my build script to maintain my App IDs or my provision files. I know what I'm doing, thank you very much.
 
 What I wanted was just something what would do a command line iOS build and upload it to HockeyApp or iTunes Connect.  It took a long time to find and organize the information on how to do all this stuff. But this ruby lib is the result.
 
