@@ -23,3 +23,8 @@ Both the library and the example script are covered by the MIT license in the re
 ### Suggestions and Bugs
 Post something in the issues.
 
+### Credits
+Developed by Don Bales and David A. Rogers  
+Many thanks to HS2 Solutions, Inc. for allowing me to share this code.
+
+
